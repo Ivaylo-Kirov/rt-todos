@@ -26,10 +26,6 @@ quick, didn't even need looking up
 
 quick
 
-## setTodos function
-
-quick
-
 ## count remaining through filter
 
 quick
